@@ -24,7 +24,7 @@ public class User {
             generator = "user_id_sequence"
     )
     private Integer id;
-    private String userName;
+    private String user_name;
     private String password;
 
 
